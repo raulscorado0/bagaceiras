@@ -1,4 +1,3 @@
-"# bagaceiras" 
-"# bagaceiras" 
-"# bagaceiras" 
-"# bagaceiras" 
+# eu finalmente fiz o MEU PRIMEIRO COMMIT!!!!
+
+nota: github, PQ TEM QUE SER PELO TERMINAL? NAO PODIA SER CLICANDO NOS BOTÃOZINHO NÃO?
