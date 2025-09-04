@@ -1,3 +1,3 @@
-# eu finalmente fiz o MEU PRIMEIRO COMMIT!!!!
+meu primeiro repositorio aqui no github
 
-nota: github, PQ TEM QUE SER PELO TERMINAL? NAO PODIA SER CLICANDO NOS BOTÃOZINHO NÃO?
+aeeeeeee
